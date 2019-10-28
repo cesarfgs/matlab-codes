@@ -1,5 +1,5 @@
 # matlab-codes
-matlab codes from beginners and intermediate users
+matlab codes for beginners and intermediate users
 
 
 every folder, identified by a "version number" have a implementation of the code.
