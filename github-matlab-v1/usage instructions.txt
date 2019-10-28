@@ -1,0 +1,15 @@
+save all in same folder
+
+open them with matlab
+
+make "aco.m" tab active
+
+put a breakpoint at line 23 (just click on the dash mark beside line 23 id)
+
+run it
+
+Note: it will just create a 4 nodes graph, create connections (edges) between them and plot. 
+
+If you need more nodes, add more "static locations" at "createGraph.m" file (i leave a comment there) and thats enough.
+
+checkout next versions to get the the implemented code every version
